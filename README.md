@@ -1,6 +1,6 @@
 [![MasterHead](header.png)](https://github.com/ntkhaiuet)
 
-<p>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntkhaiuet&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ntkhaiuet)](https://git.io/streak-stats)</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntkhaiuet&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ntkhaiuet)](https://git.io/streak-stats)
 
 
 <!--
