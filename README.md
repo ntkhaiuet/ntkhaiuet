@@ -1,4 +1,4 @@
-[![MasterHead](header.png)]([your GitHub link](https://github.com/ntkhaiuet))
+[![MasterHead](header.png)](https://github.com/ntkhaiuet)
 
 ### Hi there 👋
 
